@@ -1,0 +1,11 @@
+
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 14:31:24.495
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 14:31:24.510
+=> In class : Généréité.ExceptionHandler
+=> Wihle running : public void logException()

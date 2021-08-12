@@ -1,0 +1,14 @@
+<node>
+	<leftChild>
+		"+this.indexOf(node.getLeftChild())+"
+	</leftChild>
+		
+	<rightChild>
+		"+this.indexOf(node.getRightChild())+"
+	</rightChild>
+	
+	<data>
+		"+this.indexOf(node.getData())+"
+	</data>
+</node>
+

@@ -1,0 +1,1631 @@
+
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 11:59:53.387
+=> In class Généréité.Tests.TestExceptionHandler
+=> Wihle running public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:24:59.326
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:24:59.933
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:00.564
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:01.483
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:02.599
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:03.538
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:04.851
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:05.007
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:05.116
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:05.241
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:06.190
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:06.205
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:06.221
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.Exception
+=> 2019-06-05 at 12:25:06.375
+=> In class : Généréité.Tests.TestExceptionHandler
+=> Wihle running : public ExceptionHandler newExceptionHandler(int , Integer , Object , DescriptorSupport)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:03:48.842
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:04:47.118
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:12:26.165
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:33.217
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:34.022
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:34.651
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:35.356
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:36.486
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:37.540
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:37.728
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:37.774
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:38.482
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:39.445
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:40.670
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:40.811
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:40.936
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:40.951
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:40.998
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:41.045
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:41.616
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:41.636
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:42.008
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:41.992
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:42.195
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:42.211
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:42.782
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:42.797
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:42.860
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:42.938
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:42.969
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:43.593
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:43.734
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:43.763
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:43.826
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:44.358
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:44.405
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:44.436
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:44.736
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:44.864
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:45.223
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:45.348
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:45.379
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:45.379
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:45.457
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:45.981
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:46.263
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-05 at 15:22:46.325
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:33:03.772
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:37:00.864
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:37:28.449
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:37:29.653
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:37:35.033
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:42:33.952
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:43:02.549
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 20:43:02.573
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:45:32.335
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 20:45:32.358
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.362
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.363
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.363
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.363
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.363
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.364
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.364
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.364
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.364
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.365
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.365
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.365
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.365
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-09 at 20:45:32.366
+=> In class : Généréité.Node
+=> Wihle running : public String toXml()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:51:23.975
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 20:51:23.998
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:52:50.398
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 20:52:50.421
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:54:32.140
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 20:54:32.163
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:54:46.477
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 20:54:46.500
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 20:58:47.219
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-09 at 20:58:47.227
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 20:58:47.242
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 21:05:09.588
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-09 at 21:05:09.596
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 21:05:09.611
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 21:05:59.324
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-09 at 21:05:59.332
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 21:05:59.348
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.LessThanOrEqualValueFoundInRightSubtreeILException: A validity property specific to the definition of a binary serch tree is not respected. Right subtreeIL contains a node in position 0 with data value less or equal to its parent data value, 1 is conventionnaly lower than 1.
+=> 2019-06-09 at 21:05:59.352
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 21:08:09.416
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-09 at 21:08:09.425
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 21:08:09.441
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.LessThanOrEqualValueFoundInRightSubtreeILException: A validity property specific to the definition of a binary serch tree is not respected. Right subtreeIL contains a node in position 0 with data value less or equal to its parent data value, 1 is conventionnaly lower than 1.
+=> 2019-06-09 at 21:08:09.445
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 21:13:29.826
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-09 at 21:13:29.834
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 21:13:29.849
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.LessThanOrEqualValueFoundInRightSubtreeILException: A validity property specific to the definition of a binary serch tree is not respected. Right subtreeIL contains a node in position 0 with data value less or equal to its parent data value, 1 is conventionnaly lower than 1.
+=> 2019-06-09 at 21:13:29.853
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 21:14:20.423
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-09 at 21:14:20.433
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 21:14:20.450
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:14:20.454
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:14:20.455
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:14:20.456
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:14:20.456
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:14:20.456
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:14:20.456
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:14:20.457
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-09 at 21:15:49.120
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-09 at 21:15:49.128
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 0
+=> 2019-06-09 at 21:15:49.143
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:15:49.146
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:15:49.147
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:15:49.147
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:15:49.148
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:15:49.148
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:15:49.148
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-09 at 21:15:49.149
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:37:42.506
+=> In class : Généréité.Tests.TestFileManager
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 22:55:34.481
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-16 at 22:55:34.622
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 22:58:17.464
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-16 at 22:58:17.488
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.498
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.506
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.512
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.518
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.524
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.532
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.538
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.545
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.552
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:17.561
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 22:58:28.195
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-16 at 22:58:28.226
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.234
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.243
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.250
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.256
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.263
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.273
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.289
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.297
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.310
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-16 at 22:58:28.316
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:04:30.544
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-16 at 23:04:30.579
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:07:20.501
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 1, Size: 1
+=> 2019-06-16 at 23:07:20.536
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:10:35.570
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:10:37.474
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:14:48.984
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:14:59.130
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:15:46.526
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:15:55.983
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:19:40.581
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.ClassCastException: java.lang.Exception cannot be cast to java.lang.Comparable
+=> 2019-06-16 at 23:20:31.487
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.NodeDataTypeIncompatibleInTreeILException: Node of data type <<class java.lang.Class>> can not be bound to the TreeIL.
+=> 2019-06-16 at 23:20:31.513
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.ClassCastException: java.lang.Exception cannot be cast to java.lang.Comparable
+=> 2019-06-16 at 23:23:01.809
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.NodeDataTypeIncompatibleInTreeILException: Node of data type <<class java.lang.Class>> can not be bound to the TreeIL.
+=> 2019-06-16 at 23:23:01.830
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-16 at 23:23:17.996
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.059
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.106
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.112
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.119
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.125
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.130
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.136
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.142
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.148
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.155
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.BinarySearchTreePropertyViolationException: A validity property specific to the definition of a binary serch tree is not respected.
+=> 2019-06-17 at 00:13:01.163
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.RightChildLessThanOrEqualToParentException: A validity property specific to the definition of a binary serch tree is not respected. Right child data value (position 3) can not be less or equal to its parent data value (position 2) , 0 is conventionnaly lower than 2
+=> 2019-06-19 at 19:47:47.217
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.OrphanNodeFoundException: Node object found in position 3 of TReeIL vector with no parent.
+=> 2019-06-19 at 19:59:42.568
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL()
+################################################################################################################
+=> Généréité.CustomExceptions.OrphanNodeFoundException: Node object found in position 3 of TReeIL vector with no parent.
+=> 2019-06-19 at 20:01:53.345
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL()
+################################################################################################################
+=> Généréité.CustomExceptions.OrphanNodeFoundException: Node object found in position 3 of TReeIL vector with no parent.
+=> 2019-06-19 at 20:03:05.914
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL()
+################################################################################################################
+=> Généréité.CustomExceptions.OrphanNodeFoundException: Node object found in position 1 of TReeIL vector with no parent.
+=> 2019-06-19 at 20:04:01.364
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL()
+################################################################################################################
+=> Généréité.CustomExceptions.OrphanNodeFoundException: Node object found in position 11 of TReeIL vector with no parent.
+=> 2019-06-19 at 20:05:38.660
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL()
+################################################################################################################
+=> Généréité.CustomExceptions.OrphanNodeFoundException: Node object found in position 1 of TReeIL vector with no parent.
+=> 2019-06-19 at 20:06:46.397
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL()
+################################################################################################################
+=> Généréité.CustomExceptions.OrphanNodeFoundException: Node object found in position 1 of TReeIL vector with no parent.
+=> 2019-06-19 at 20:07:26.373
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL()
+################################################################################################################
+=> Généréité.CustomExceptions.OrphanNodeFoundException: Node object found in position 1 of TReeIL vector with no parent.
+=> 2019-06-19 at 20:07:47.384
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL()
+################################################################################################################
+=> Généréité.CustomExceptions.OrphanNodeFoundException: Node object found in position 1 of TReeIL vector with no parent.
+=> 2019-06-19 at 20:09:13.270
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL()
+################################################################################################################
+=> Généréité.CustomExceptions.LeftChildGreaterThanParentException: A validity property specific to the definition of a binary serch tree is not respected. Left child data value (position 11) can not be greater than its parent data value (position 0) , 12 is conventionnaly greater than 0
+=> 2019-06-19 at 20:11:45.791
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.LeftChildGreaterThanParentException: A validity property specific to the definition of a binary serch tree is not respected. Left child data value (position 11) can not be greater than its parent data value (position 0) , 12 is conventionnaly greater than 0
+=> 2019-06-19 at 20:12:20.751
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.LeftChildGreaterThanParentException: A validity property specific to the definition of a binary serch tree is not respected. Left child data value (position 11) can not be greater than its parent data value (position 0) , 12 is conventionnaly greater than 0
+=> 2019-06-19 at 20:13:59.963
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.RightChildLessThanOrEqualToParentException: A validity property specific to the definition of a binary serch tree is not respected. Right child data value (position 6) can not be less or equal to its parent data value (position 5) , -10 is conventionnaly lower than 5
+=> 2019-06-19 at 20:51:33.891
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.RightChildLessThanOrEqualToParentException: A validity property specific to the definition of a binary serch tree is not respected. Right child data value (position 6) can not be less or equal to its parent data value (position 5) , -10 is conventionnaly lower than 5
+=> 2019-06-19 at 20:53:00.176
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.LessThanOrEqualValueFoundInRightSubtreeILException: A validity property specific to the definition of a binary serch tree is not respected. Right subtreeIL contains a node in position 11 with data value less or equal to its parent data value, -10 is conventionnaly lower than 5.
+=> 2019-06-19 at 20:56:27.845
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.GreaterValueFoundInLeftSubTreeILException: A validity property specific to the definition of a binary serch tree is not respected. Left subtreeIL contains a node in position 12 with data value greater than its parent data value, 45 is conventionnaly greater than 0.
+=> 2019-06-19 at 21:01:58.193
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean isValidTreeIL(Node , Comparable , Comparable)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 19:37:31.238
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+=> 2019-06-20 at 19:39:07.415
+=> In class : Généréité.TreeIL
+=> Wihle running : public String toString()
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.446
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.462
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.462
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.478
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.478
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.493
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.493
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.493
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.509
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.509
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.NullPointerException
+=> 2019-06-20 at 19:39:07.525
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 19:53:51.873
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 19:54:18.098
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 19:55:02.620
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 19:56:25.441
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 20:00:42.227
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 20:00:47.979
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 20:01:55.802
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+###########################70089####################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 20:02:30.794
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position11, a binary search tree node can not be chained to itself.
+=> 2019-06-20 at 20:03:01.744
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.io.EOFException
+=> 2019-06-22 at 10:36:43.055
+=> In class : Généréité.FileManager
+=> Wihle running : public static void serializeObjectIntoFile(Object , String)
+################################################################################################################
+=> java.io.EOFException
+=> 2019-06-22 at 10:39:43.809
+=> In class : Généréité.FileManager
+=> Wihle running : public static void serializeObjectIntoFile(Object , String)
+################################################################################################################
+=> java.io.EOFException
+=> 2019-06-22 at 10:43:59.119
+=> In class : Généréité.FileManager
+=> Wihle running : public static void serializeObjectIntoFile(Object , String)
+################################################################################################################
+=> java.io.StreamCorruptedException: invalid handle value: 007E0205
+=> 2019-06-22 at 10:45:21.910
+=> In class : Généréité.FileManager
+=> Wihle running : public static ArrayList deserializeMultipleObjectsFromFile(String)
+################################################################################################################
+=> java.io.EOFException
+=> 2019-06-22 at 11:38:55.833
+=> In class : Généréité.FileManager
+=> Wihle running : public static void serializeObjectIntoFile(Object , String)
+################################################################################################################
+=> java.io.EOFException
+=> 2019-06-22 at 11:39:46.936
+=> In class : Généréité.FileManager
+=> Wihle running : public static void serializeObjectIntoFile(Object , String)
+################################################################################################################
+=> java.io.EOFException
+=> 2019-06-22 at 11:42:16.129
+=> In class : Généréité.FileManager
+=> Wihle running : public static void serializeObjectIntoFile(Object , String)
+################################################################################################################
+=> java.io.EOFException
+=> 2019-06-22 at 11:42:31.179
+=> In class : Généréité.FileManager
+=> Wihle running : public static void serializeObjectIntoFile(Object , String)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.TreeIL.root to java.lang.String
+=> 2019-06-23 at 07:51:35.130
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.TreeIL.root to java.lang.String
+=> 2019-06-23 at 07:52:32.715
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:53:49.187
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:53:49.202
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:53:49.207
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:13.762
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:13.770
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:13.775
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:15.482
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:15.489
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:15.494
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:16.026
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:16.032
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:16.037
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:16.202
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:16.210
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:16.217
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:16.418
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:16.424
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:16.432
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:16.586
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:16.593
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:16.598
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:16.770
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:16.775
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:16.780
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:16.946
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:16.951
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:16.956
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:17.122
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:17.131
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:17.136
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.leftChild to java.lang.String
+=> 2019-06-23 at 07:54:17.322
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set java.lang.Integer field Généréité.Node.position to java.lang.String
+=> 2019-06-23 at 07:54:17.327
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set Généréité.Node field Généréité.Node.rightChild to java.lang.String
+=> 2019-06-23 at 07:54:17.332
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set int field java.lang.String.hash to java.lang.String
+=> 2019-06-23 at 07:57:28.829
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set final [C field java.lang.String.value to java.lang.String
+=> 2019-06-23 at 07:57:28.845
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalAccessException: Can not set static final long field java.lang.String.serialVersionUID to java.lang.String
+=> 2019-06-23 at 07:57:28.850
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalAccessException: Can not set static final [Ljava.io.ObjectStreamField; field java.lang.String.serialPersistentFields to java.lang.String
+=> 2019-06-23 at 07:57:28.856
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalAccessException: Can not set static final java.util.Comparator field java.lang.String.CASE_INSENSITIVE_ORDER to java.lang.String
+=> 2019-06-23 at 07:57:28.861
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set int field java.lang.String.hash to java.lang.String
+=> 2019-06-23 at 07:57:34.898
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set final [C field java.lang.String.value to java.lang.String
+=> 2019-06-23 at 07:57:34.903
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalAccessException: Can not set static final long field java.lang.String.serialVersionUID to java.lang.String
+=> 2019-06-23 at 07:57:34.909
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalAccessException: Can not set static final [Ljava.io.ObjectStreamField; field java.lang.String.serialPersistentFields to java.lang.String
+=> 2019-06-23 at 07:57:34.914
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalAccessException: Can not set static final java.util.Comparator field java.lang.String.CASE_INSENSITIVE_ORDER to java.lang.String
+=> 2019-06-23 at 07:57:34.919
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 07:57:34.925
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set int field java.lang.String.hash to java.lang.String
+=> 2019-06-23 at 07:57:40.090
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalArgumentException: Can not set final [C field java.lang.String.value to java.lang.String
+=> 2019-06-23 at 07:57:40.095
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalAccessException: Can not set static final long field java.lang.String.serialVersionUID to java.lang.String
+=> 2019-06-23 at 07:57:40.101
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalAccessException: Can not set static final [Ljava.io.ObjectStreamField; field java.lang.String.serialPersistentFields to java.lang.String
+=> 2019-06-23 at 07:57:40.107
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> java.lang.IllegalAccessException: Can not set static final java.util.Comparator field java.lang.String.CASE_INSENSITIVE_ORDER to java.lang.String
+=> 2019-06-23 at 07:57:40.112
+=> In class : Généréité.MenuGenerator
+=> Wihle running : public void actionPerformed(ActionEvent)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 07:57:40.118
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.ArithmeticException: / by zero
+=> 2019-06-23 at 08:01:32.522
+=> In class : Généréité.Tests.TestTreeIL
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.ArithmeticException: / by zero
+=> 2019-06-23 at 08:04:18.466
+=> In class : Généréité.Tests.TestTreeIL
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.ArithmeticException: / by zero
+=> 2019-06-23 at 08:04:54.561
+=> In class : Généréité.Tests.TestTreeIL
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:43:40.007
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:43:45.749
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:43:49.085
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:43:53.117
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:44:53.150
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:44:55.965
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:45:00.133
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:45:04.500
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:45:08.533
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:50:46.087
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:52:18.816
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:52:21.655
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 10:52:26.478
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position12, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:04:09.469
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position12, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:04:11.652
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position12, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:04:14.260
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position12, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:04:16.612
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position12, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:04:16.772
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position12, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:04:18.931
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:05:01.632
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:05:05.332
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:05:09.156
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:13:14.758
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:13:19.259
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:13:22.539
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position0, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:14:54.182
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.ClassCastException: java.lang.Integer cannot be cast to Généréité.ButtonActionExemple
+=> 2019-06-23 at 11:21:52.618
+=> In class : Généréité.Node
+=> Wihle running : public boolean insert(Node , ArrayList)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:22:18.926
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:22:24.051
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> Généréité.CustomExceptions.DuplicateNodeException: A validity property specific to the definition of a binary serch tree is not respected. Node object already existing in position1, a binary search tree node can not be chained to itself.
+=> 2019-06-23 at 11:26:37.290
+=> In class : Généréité.TreeIL
+=> Wihle running : public boolean insert(Object)
+################################################################################################################
+=> java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+=> 2019-07-05 at 19:49:32.981
+=> In class : Généréité.TestGroupe04
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+=> 2019-07-05 at 19:50:27.358
+=> In class : Généréité.TestGroupe04
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+=> 2019-07-05 at 19:50:59.524
+=> In class : Généréité.TestGroupe04
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.lang.StringIndexOutOfBoundsException: String index out of range: -6
+=> 2019-07-05 at 20:18:42.505
+=> In class : Généréité.TestGroupe04
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.io.FileNotFoundException: src\Généréité\F.ser (Le fichier spécifié est introuvable)
+=> 2019-07-06 at 09:17:32.051
+=> In class : Généréité.TestGroupe03
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.io.EOFException
+=> 2019-07-06 at 09:18:50.773
+=> In class : Généréité.FileManager
+=> Wihle running : public static void serializeObjectIntoFile(Object , String)
+################################################################################################################
+=> java.io.NotSerializableException: Généréité.MethodData
+=> 2019-07-06 at 09:18:50.910
+=> In class : Généréité.TestGroupe03
+=> Wihle running : public static void main(String[])
+################################################################################################################
+=> java.io.EOFException
+=> 2019-07-06 at 09:19:25.022
+=> In class : Généréité.FileManager
+=> Wihle running : public static void serializeObjectIntoFile(Object , String)
